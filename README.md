@@ -3,7 +3,7 @@
 
 #### Install
 ```
-go get github.com/Kamva/logrus-sdk
+go get github.com/Kamva/logrus-kit
 ``` 
 
 #### Formatter list:
