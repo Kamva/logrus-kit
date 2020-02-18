@@ -1,4 +1,4 @@
-package logrusOutput
+package logrusoutput
 
 import (
 	"github.com/Kamva/logrus-kit"

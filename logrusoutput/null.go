@@ -1,7 +1,7 @@
-package logrusOutput
+package logrusoutput
 
 import (
-	logruskit "github.com/Kamva/logrus-kit"
+	"github.com/Kamva/logrus-kit"
 	"io"
 )
 
