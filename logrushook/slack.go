@@ -2,7 +2,7 @@
 package logrushook
 
 import (
-	"github.com/Kamva/logrus-kit"
+	"github.com/kamva/logrus-kit"
 	"github.com/johntdyer/slackrus"
 	"github.com/sirupsen/logrus"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Kamva/logrus-kit"
-	_ "github.com/Kamva/logrus-kit/logrusbase"
+	"github.com/kamva/logrus-kit"
+	_ "github.com/kamva/logrus-kit/logrusbase"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )

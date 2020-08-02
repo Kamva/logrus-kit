@@ -3,7 +3,7 @@
 
 #### Install
 ```
-go get github.com/Kamva/logrus-kit
+go get github.com/kamva/logrus-kit
 ```
 
 #### Formatter list:
@@ -21,15 +21,15 @@ go get github.com/Kamva/logrus-kit
 #### Example
 **Note:** To register default logrus-kit formatters,hooks and 
 outputs , import logrusbase : e.g   
-`import _ "github.com/Kamva/logrus-kit/logrusbase"`
+`import _ "github.com/kamva/logrus-kit/logrusbase"`
 
 Example: 
 ```go
 package mypackage
 
 import (
-	"github.com/Kamva/logrus-kit"
-	_ "github.com/Kamva/logrus-kit/logrusbase"
+	"github.com/kamva/logrus-kit"
+	_ "github.com/kamva/logrus-kit/logrusbase"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )

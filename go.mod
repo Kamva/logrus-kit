@@ -1,4 +1,4 @@
-module github.com/Kamva/logrus-kit
+module github.com/kamva/logrus-kit
 
 go 1.13
 

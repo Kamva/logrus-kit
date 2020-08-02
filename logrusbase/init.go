@@ -1,7 +1,7 @@
 package logrusbase
 
 import (
-	_ "github.com/Kamva/logrus-kit/logrusoutput"
-	_ "github.com/Kamva/logrus-kit/logrusformatter"
-	_ "github.com/Kamva/logrus-kit/logrushook"
+	_ "github.com/kamva/logrus-kit/logrusoutput"
+	_ "github.com/kamva/logrus-kit/logrusformatter"
+	_ "github.com/kamva/logrus-kit/logrushook"
 )

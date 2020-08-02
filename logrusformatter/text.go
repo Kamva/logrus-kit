@@ -1,7 +1,7 @@
 package logrusformatter
 
 import (
-	"github.com/Kamva/logrus-kit"
+	"github.com/kamva/logrus-kit"
 	"github.com/sirupsen/logrus"
 )
 

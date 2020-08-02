@@ -2,7 +2,7 @@ package logruskit
 
 import (
 	"fmt"
-	"github.com/Kamva/logrus-kit/internal/util"
+	"github.com/kamva/logrus-kit/internal/util"
 	"github.com/sirupsen/logrus"
 )
 
