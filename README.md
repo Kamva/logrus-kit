@@ -1,3 +1,5 @@
+## Deprecated: This package is deprecated in favor of zap and hexa stacked logger.
+
 ### Logrus-kit is a kit for logrus.
 **Logrus-kit inspired by [Logrus mate](https://github.com/gogap/logrus_mate)** 
 
